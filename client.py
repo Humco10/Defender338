@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#basic server
 import socket
 
 s = socket.socket()
