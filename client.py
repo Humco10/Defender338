@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#basic client
+#client that works with multiclients erver
 import socket
 import select
 import sys
