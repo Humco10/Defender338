@@ -5,7 +5,7 @@ class Convert(Frame):
     """Sets up window and widgets"""
     def __init__(self):
         Frame.__init__(self)
-        self.canvas=Canvas(self, width=200,height=200)
+        self.canvas=Canvas(self, width=200,height=200, bg ="white")
         self.canvas.grid(row=0, column=0)
         
         self.master.title("Client")
