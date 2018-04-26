@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #client that works with multiclients erver
+#enter into cmd py client.py 127.0.0.1 7474 from the same computer or other computers will have to replace the 127.0.0.1 with the host ip
 import socket
 import select
 import sys
