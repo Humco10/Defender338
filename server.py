@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #multiclient handling server
+#just double click to launch
 import socket
 import select
 import sys
